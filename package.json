@@ -1,0 +1,19 @@
+{
+  "name": "base64image",
+  "version": "1.0.0",
+  "description": "Base64Image Plugin for CKEditor 4 =================================",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esanum/base64image.git"
+  },
+  "author": "",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/esanum/base64image/issues"
+  },
+  "homepage": "https://github.com/esanum/base64image#readme"
+}
